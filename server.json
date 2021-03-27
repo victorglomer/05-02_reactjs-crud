@@ -1,12 +1,12 @@
 {
   "foods": [
     {
-      "id": 1,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Ao molho",
+      "price": "19.99",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1,
+      "available": false
     },
     {
       "id": 2,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://allmundifood.files.wordpress.com/2014/11/005_heartymeatlasagna.jpg",
+      "name": "Lasanha",
+      "price": "30.00",
+      "description": "Linda lasanha do google",
+      "id": 5,
+      "available": true
+    },
+    {
+      "image": "https://aquitemosasco.com.br/wp-content/uploads/2020/04/dogao2.jpg",
+      "name": "Dogão de Osasco",
+      "price": "90.00",
+      "description": "dogão com 12 salsichas, 8 pombas e 14 molhos diferentes",
+      "available": true,
+      "id": 6
     }
   ]
 }
